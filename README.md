@@ -89,58 +89,6 @@ current_focus = {
 <br/>
 
 <!-- ============================================================
-     FEATURED PROJECTS
-     ============================================================ -->
-
-## 📂 Featured Projects
-
-<!-- 🔧 REPLACE the repo links/names below with your actual project repositories -->
-
-<div align="center">
-
-<a href="https://github.com/himanshu-099/REPLACE_WITH_REPO_1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-099&repo=REPLACE_WITH_REPO_1&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/himanshu-099/REPLACE_WITH_REPO_2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=himanshu-099&repo=REPLACE_WITH_REPO_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-> 📝 **Note:** Pin your best repositories on your GitHub profile (Profile → Customize your pins) and update the repo names above so these cards render your real projects.
-
-<br/>
-
-<!-- ============================================================
-     GITHUB STATISTICS
-     ============================================================ -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=himanshu-099&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Himanshu's GitHub Stats" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-099&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="39%"/>
-
-</div>
-
-<br/>
-
-<!-- ============================================================
-     GITHUB TROPHIES
-     ============================================================ -->
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=himanshu-099&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<!-- ============================================================
      CURRENT GOALS
      ============================================================ -->
 
