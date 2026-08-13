@@ -6,22 +6,18 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00A8E8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Himanshu+Sharma+%F0%9F%91%8B;Learning+Python;Frontend+Developer;Cybersecurity+Enthusiast;Growing+One+Line+of+Code+at+a+Time+%E2%9A%A1" alt="Typing SVG" />
 
-<!-- Social badges row -->
-<!-- 🔧 REPLACE the links below (LinkedIn, Instagram, Email, Portfolio) with your real links -->
-<p>
-  <a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/REPLACE_WITH_YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://himanshu-099.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</p>
+</div>
 
-<!-- Profile views counter -->
+<!-- Profile views counter (left-aligned) -->
 <img src="https://komarev.com/ghpvc/?username=himanshu-099&label=Profile%20Views&color=00A8E8&style=flat-square" alt="Profile Views"/>
+
+<div align="center">
 
 <br/>
 
 <!-- Coding animation -->
 <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="450"/>
+
 
 </div>
 
