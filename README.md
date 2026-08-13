@@ -4,7 +4,7 @@
      HEADER
      ============================================================ -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00A8E8&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Himanshu+Sharma+%F0%9F%91%8B;Learning+Python;Frontend+Developer;Cybersecurity+Enthusiast;Growing+One+Line+of+Code+at+a+Time+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00A8E8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Himanshu+Sharma+%F0%9F%91%8B;Learning+Python;Frontend+Developer;Cybersecurity+Enthusiast;Growing+One+Line+of+Code+at+a+Time+%E2%9A%A1" alt="Typing SVG" />
 
 <!-- Social badges row -->
 <!-- 🔧 REPLACE the links below (LinkedIn, Instagram, Email, Portfolio) with your real links -->
