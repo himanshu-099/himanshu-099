@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://instagram.com/REPLACE_WITH_YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
   <a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://REPLACE_WITH_YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://himanshu-099.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 <!-- Profile views counter -->
@@ -89,6 +89,28 @@ current_focus = {
 <br/>
 
 <!-- ============================================================
+     FEATURED PROJECTS
+     ============================================================ -->
+
+## 📂 Featured Projects
+
+<!-- 🔧 REPLACE the link below with your actual portfolio URL -->
+
+<div align="center">
+
+<a href="https://himanshu-099.github.io/Portfolio/">
+  <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-00A8E8?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+</a>
+
+<br/><br/>
+
+Check out my portfolio website to explore my complete project showcase, case studies, and work in detail.
+
+</div>
+
+<br/>
+
+<!-- ============================================================
      CURRENT GOALS
      ============================================================ -->
 
@@ -127,7 +149,7 @@ current_focus = {
 <a href="https://linkedin.com/in/REPLACE_WITH_YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/REPLACE_WITH_YOUR_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="mailto:REPLACE_WITH_YOUR_EMAIL@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://REPLACE_WITH_YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://himanshu-099.github.io/Portfolio/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://github.com/himanshu-099"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
 </div>
