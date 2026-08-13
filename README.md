@@ -127,20 +127,6 @@ current_focus = {
 <br/>
 
 <!-- ============================================================
-     GITHUB STREAK
-     ============================================================ -->
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-099&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
-<br/>
-
-<!-- ============================================================
      GITHUB TROPHIES
      ============================================================ -->
 
@@ -148,21 +134,7 @@ current_focus = {
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=himanshu-099&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
-
-</div>
-
-<br/>
-
-<!-- ============================================================
-     CONTRIBUTION GRAPH
-     ============================================================ -->
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu-099&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+<img src="https://github-profile-trophy.vercel.app/?username=himanshu-099&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 
 </div>
 
