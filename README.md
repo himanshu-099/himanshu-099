@@ -1,3 +1,6 @@
+<!-- Profile views counter (top-left corner) -->
+<img src="https://komarev.com/ghpvc/?username=himanshu-099&label=Profile%20Views&color=00A8E8&style=flat-square" alt="Profile Views"/>
+
 <div align="center">
 
 <!-- ============================================================
@@ -5,13 +8,6 @@
      ============================================================ -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00A8E8&center=true&vCenter=true&width=750&lines=Hi+there%2C+I'm+Himanshu+Sharma+%F0%9F%91%8B;Learning+Python;Frontend+Developer;Cybersecurity+Enthusiast;Growing+One+Line+of+Code+at+a+Time+%E2%9A%A1" alt="Typing SVG" />
-
-</div>
-
-<!-- Profile views counter (left-aligned) -->
-<img src="https://komarev.com/ghpvc/?username=himanshu-099&label=Profile%20Views&color=00A8E8&style=flat-square" alt="Profile Views"/>
-
-<div align="center">
 
 <br/>
 
